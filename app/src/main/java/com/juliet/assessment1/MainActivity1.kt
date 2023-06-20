@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
 import com.juliet.assessment1.databinding.ActivityMain1Binding
-import com.juliet.assessment1.databinding.ActivityMainBinding
+
 
 class MainActivity1 : AppCompatActivity() {
     lateinit var binding: ActivityMain1Binding
